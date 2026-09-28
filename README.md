@@ -1,2 +1,2 @@
-This repository contains my personal runtime component files for bash, zsh, vim, git, and gdb.
+This contains runtime components files for bashrc, gdbinit, gitconfig, vimrc, zshrc, install.sh
 
